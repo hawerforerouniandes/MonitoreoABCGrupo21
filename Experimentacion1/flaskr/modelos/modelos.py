@@ -7,12 +7,13 @@ import enum
 db = SQLAlchemy()
 
 
-class Test(db.Model):
+class Device(db.Model):
     id = db.Column(db.Integer, primary_key = True)
-    nombre = db.Column(db.String(128))
+    name = db.Column(db.String(128))
+    is_on = db.Column(db.Boolean, default=True)
 
-class TestSchema(SQLAlchemyAutoSchema):
+class DeviceSchema(SQLAlchemyAutoSchema):
     class Meta:
-         model = Test
+         model = Device
          include_relationships = True
          load_instance = True

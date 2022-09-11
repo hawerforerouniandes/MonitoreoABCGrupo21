@@ -1,0 +1,1000 @@
+2022-09-11 12:02:31.435265 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.440062 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.445090 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.450539 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.456399 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.461658 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.467435 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.473643 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.479719 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.485847 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.492403 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.497828 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.503969 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.509217 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.514968 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.520893 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.527127 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.532630 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.540290 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.547410 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.553960 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.560121 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.565558 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.571899 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.577254 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.583289 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.589361 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.595017 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.600715 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.607478 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.612733 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.620390 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.626198 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.631661 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.638236 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.655662 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.672123 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.684028 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.692000 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.698267 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.704615 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.709991 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.715750 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.722112 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.727660 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.733141 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.740577 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.746174 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.751905 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.757287 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.762614 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.767995 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.773907 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.779096 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.784592 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.790236 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.795440 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.800774 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.806321 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.812164 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.818640 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.824008 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.829091 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.834681 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.840416 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.845661 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.851234 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.856715 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.861867 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.867442 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.873384 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.879463 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.885521 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.890749 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.896065 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.910065 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.921322 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.927982 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.934870 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.940528 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.946473 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.952363 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.957635 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.962868 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.968509 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.973583 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.978763 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.984273 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.989551 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:31.994567 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.000082 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.005585 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.011183 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.016912 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.022339 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.027318 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.032519 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.038261 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.043273 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.048577 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.054250 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.059480 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.064925 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.070985 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.077455 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.084376 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.089769 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.094889 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.100418 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.105914 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.111147 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.116556 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.122160 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.127397 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.132743 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.138430 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.143851 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.149670 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.155538 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.161089 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.166575 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.171934 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.177633 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.183211 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.188790 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.193965 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.199390 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.204959 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.210334 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.216343 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.222533 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.228414 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.235164 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.241012 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.246259 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.251902 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.257356 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.262463 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.268001 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.273330 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.279071 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.284986 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.291423 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.296981 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.303185 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.308338 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.313967 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.319955 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.325099 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.330333 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.336688 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.341979 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.364332 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.384748 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.391503 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.398366 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.404993 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.412162 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.423934 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.430185 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.436712 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.442387 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.448608 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.456219 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.463032 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.471123 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.477362 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.485351 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.496071 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.511719 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.523335 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.531255 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.545160 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.587763 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.622900 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.631488 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.637257 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.643332 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.650592 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.661191 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.668385 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.675284 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.681952 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.690005 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.696098 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.703080 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.710729 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.717608 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.724043 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.729606 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.738097 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.744332 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.751102 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.758235 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.764116 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.771642 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.779030 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.786219 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.808492 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.828662 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.844020 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.854761 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.905442 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.919597 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.926631 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.937511 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.947870 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.957674 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.968955 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.978894 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.988428 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:32.994722 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.004068 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.011491 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.019860 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.026088 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.033322 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.039258 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.045403 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.051885 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.059303 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.067868 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.075844 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.085126 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.094162 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.101030 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.108090 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.114418 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.125000 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.131064 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.142610 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.150026 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.157945 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.163388 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.170791 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.176582 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.182568 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.189235 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.199120 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.208221 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.216344 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.224289 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.230522 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.239194 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.245418 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.252200 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.260344 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.302918 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.309424 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.315846 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.322478 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.331740 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.344630 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.354172 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.360672 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.366797 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.374197 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.380536 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.388555 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.394347 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.402689 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.410852 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.419812 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.427568 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.433738 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.441332 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.447117 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.454228 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.460526 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.467961 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.476999 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.484740 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.490960 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.496843 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.505207 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.510922 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.517359 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.524911 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.530969 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.542103 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.566728 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.584075 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.593760 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.606735 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.619237 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.627887 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.635945 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.644133 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.651328 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.659953 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.667339 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.676995 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.684678 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.693571 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.699798 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.706342 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.711944 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.719266 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.726081 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.733523 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.742322 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.747958 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.755568 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.761710 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.768053 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.780096 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.802381 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.810406 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.817453 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.828128 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.836470 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.842665 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.847936 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.854692 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.860274 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.865942 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.872759 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.878560 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.885030 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.892122 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.897579 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.905697 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.910956 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.917060 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.923584 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.928891 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.934997 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.952273 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.970017 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.982068 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.991590 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:33.997080 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.004170 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.035040 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.042046 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.047264 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.054149 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.060379 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.068266 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.079496 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.087553 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.095143 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.102016 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.110117 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.120257 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.127382 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.133828 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.143840 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.155285 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.162316 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.170291 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.178274 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.184669 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.191564 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.197179 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.204639 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.210626 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.217494 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.224983 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.230463 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.245354 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.245354 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.248731 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.256231 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.261446 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.267026 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.305550 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.340958 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.350704 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.356956 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.373296 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.381438 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.389624 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.396070 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.405192 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.411654 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.421730 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.429714 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.437596 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.443345 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.450114 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.457544 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.463300 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.469256 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.477229 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.483758 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.491613 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.497112 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.503196 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.508658 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.513905 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.520392 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.525941 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.530928 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.538037 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.543529 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.550313 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.557710 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.563255 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.569965 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.575720 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.581238 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.587640 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.593121 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.600278 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.606581 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.611996 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.619014 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.625462 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.631287 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.638561 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.643824 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.649416 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.655871 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.661071 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.666937 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.673927 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.680453 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.687484 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.693970 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.700023 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.706872 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.713282 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.720039 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.726677 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.732220 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.739337 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.744843 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.751101 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.757978 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.763567 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.769552 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.776122 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.781486 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.788617 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.793833 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.799402 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.806528 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.811880 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.818664 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.825051 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.830691 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.836927 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.843250 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.848817 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.855846 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.861013 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.866638 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.873205 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.878734 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.885772 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.895786 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.901941 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.909030 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.914232 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.921217 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.928905 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.934792 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.940966 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.946259 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.952601 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.959205 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.964960 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.972435 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.978792 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.984744 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.991423 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:34.996638 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.002950 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.009308 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.014788 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.023728 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.029665 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.035722 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.041619 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.046966 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.052990 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.059884 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.065494 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.072589 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.077999 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.084242 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.091613 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.097193 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.104119 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.111633 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.119240 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.125650 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.131029 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.139611 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.145795 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.152489 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.159909 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.166303 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.174121 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.179886 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.186063 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.193270 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.199946 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.207312 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.212759 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.240938 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.255318 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.267385 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.275989 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.282129 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.291663 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.298003 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.306629 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.313512 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.319855 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.326738 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.332705 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.341332 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.346839 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.353626 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.363522 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.369875 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.376434 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.381938 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.389637 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.394959 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.400595 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.406898 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.412168 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.419008 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.426497 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.432232 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.439687 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.444869 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.450518 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.456986 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.462258 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.467969 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.474344 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.480634 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.487869 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.509828 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.521797 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.530006 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.538156 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.543818 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.549398 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.557666 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.563989 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.571408 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.577365 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.583742 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:35.592205 - Dispositivo 1: Dispositivo apagado
+2022-09-11 12:02:58.008712 - Dispositivo 1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2022-09-11 12:02:58.013634 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111660550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.019617 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2f50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.029318 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.033653 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60dc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.038157 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61510>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.042229 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61c60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.044884 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.047726 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111623970>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.051468 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61450>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.055738 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.058408 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60430>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.061183 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a623b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.064144 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.067051 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f0a60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.069867 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60370>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.072515 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.075103 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61000>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.077843 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a62b00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.080299 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3e20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.083238 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111660580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.086342 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61ae0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.089478 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60bb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.092293 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60a00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.095340 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a63250>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.098036 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.101344 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.103874 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60820>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.106674 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60520>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.109115 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61e10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.112030 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a639a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.114559 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.117469 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111623a60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.120086 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61570>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.122666 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a607c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.125210 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a60040>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.127919 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.130570 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a637c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.142566 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a61480>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.149584 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1116239d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.153136 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2fe0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.155742 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3850>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.159077 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c880>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.161680 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f36d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.164416 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c6d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.167354 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cdc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.170149 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d510>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.172817 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dc60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.175914 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e3b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.178756 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3370>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.181761 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e200>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.189160 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d8d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.194383 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d150>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.197540 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.201258 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8eb00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.204379 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2680>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.206886 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e950>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.209477 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cf40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.212041 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d060>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.214517 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e470>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.218354 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f250>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.221260 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.223869 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f0a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.226382 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d630>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.228906 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d0c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.231845 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ebc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.234980 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f9a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.237663 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.240248 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f7f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.242614 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.245013 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d180>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.247477 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f310>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.250453 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.253370 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ea10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.256793 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.260042 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c070>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.262870 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3910>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.265757 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f36d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.268979 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98880>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.271679 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.274528 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ed10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.276977 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d0c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.279554 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d210>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.282347 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a986d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.285712 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98fd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.288658 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e1d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.291553 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.294535 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1116234f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.297538 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.301128 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98df0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.304218 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99720>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.306830 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111660490>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.309347 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fbe0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.311796 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fa60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.335448 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c760>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.339697 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.343899 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99e70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.349379 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.353545 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ca90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.356449 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111623a60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.359099 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3910>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.361632 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98ee0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.364441 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a5c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.367358 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111623460>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.369958 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.372554 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d120>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.375283 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ddb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.378010 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a983a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.380890 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9ad10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.384145 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cb20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.386564 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c1c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.389044 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1116234f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.391452 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.393965 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a4a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.397814 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b460>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.401481 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.404307 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ccd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.406619 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cbb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.409062 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8da20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.411474 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ff70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.414294 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cbe0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.416902 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f35b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.419618 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.422210 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fbb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.424896 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d840>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.427263 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ff10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.429608 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d600>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.431847 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.434395 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d2a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.436666 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cd00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.438970 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d930>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.441196 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.443821 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d270>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.445991 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.448247 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d090>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.450527 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c4c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.452827 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c730>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.455142 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d240>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.457673 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d360>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.459898 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.462161 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.464432 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e230>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.466921 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d420>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.469287 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ec20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.471912 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a995a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.474208 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.476583 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dc30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.478837 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d2d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.481029 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3f40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.483365 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119bace0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.486103 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98ee0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.488745 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.491081 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8de10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.493608 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8eb60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.496503 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e770>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.499110 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a9b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.502072 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a530>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.504431 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c730>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.506886 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d840>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.509196 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3190>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.511648 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.513976 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9ae30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.516693 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99ae0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.519001 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f31c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.521422 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f070>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.523843 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e8f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.526214 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e5c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.528508 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9ab60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.530882 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a998a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.533393 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cd60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.536169 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d240>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.538517 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.540843 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3ca0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.543105 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.545478 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.547788 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.550285 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d180>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.552730 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e4d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.555171 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.557446 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a9e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.559931 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a980d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.562078 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d000>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.565001 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.567297 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.569877 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119bac20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.572014 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98f70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.575058 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9bbb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.577373 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3df0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.579622 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ca90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.582050 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fca0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.584461 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d0f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.586878 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e080>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.589359 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ed70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.591640 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f26b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.593959 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8df60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.596279 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.598655 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ea70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.601159 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c1f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.606185 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dc90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.617446 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f30d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.624147 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e6b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.626959 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.630684 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d570>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.635687 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e560>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.640197 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e620>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.642639 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f34c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.644960 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ee00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.647384 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.649736 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ecb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.652091 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fd30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.654876 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fd60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.657084 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3f40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.659398 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.661982 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f490>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.664641 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e4a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.666954 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8eb90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.669596 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.671878 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dc30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.674197 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.676498 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d390>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.678783 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2cb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.680958 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98f70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.683756 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98520>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.686251 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f34c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.688829 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8eb60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.691532 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e980>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.693923 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dcf0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.696999 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a985b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.700114 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98dc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.702899 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e9e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.705364 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ef80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.707789 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f39a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.710083 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f0fd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.712513 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.715446 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99900>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.718105 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3be0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.720480 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d7e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.722813 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.725117 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e0e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.727450 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a987c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.729948 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99db0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.732499 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.735053 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.737470 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f38b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.739926 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119bac20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.742210 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98f70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.744845 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a6b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.747009 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f33a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.749592 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.751940 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c9a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.754442 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d540>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.756814 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a987c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.759329 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9af80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.761494 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f610>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.763825 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ecb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.766603 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.768898 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119ba9b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.771461 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a500>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.774392 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac4340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.776840 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3af0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.779063 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b610>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.781433 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99cc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.783984 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98e80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.786811 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99c00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.789465 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99120>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.792033 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.794404 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a770>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.797008 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.799511 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99d50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.802000 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a993f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.804863 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99a20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.807472 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3850>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.809803 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b640>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.812287 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b6a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.815048 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98e80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.818101 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98e50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.821210 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e2c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.823702 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9aaa0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.826447 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9bd90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.828891 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99cc0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.831541 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3460>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.834766 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119bac20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.837423 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e980>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.839840 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2c20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.842291 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.844592 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a080>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.846952 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98850>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.850052 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d7e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.852953 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f0a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.856066 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a860>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.858583 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.860996 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a980a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.863267 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f31c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.866131 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d210>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.868930 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d570>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.871472 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f03a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.874151 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98f10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.906146 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a3b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.913066 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99f00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.919294 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.922543 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cd30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.925354 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99f60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.928054 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b280>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.930840 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b370>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.933921 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3310>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.937242 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e6b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.939999 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d780>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.942450 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99990>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.944925 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a8c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.947447 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98df0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.950385 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99930>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.953076 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dbd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.956324 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f1f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.959282 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.962018 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a3b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.964930 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3460>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.968844 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1116234f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.971693 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d5a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.974680 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c070>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.977719 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b100>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.980343 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a998a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.983460 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b6a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.986095 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9ab30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.988852 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f520>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.991785 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac4400>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.994647 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:58.997228 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a993f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.001190 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.005182 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99030>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.008259 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1116234f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.011993 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac4a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.016512 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.020483 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cfa0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.023644 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e140>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.027027 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f280>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.030590 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f700>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.035701 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fd00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.038656 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3310>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.041825 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cf40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.044747 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8df90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.048350 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dbd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.052396 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.055188 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ee90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.057892 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.060256 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ec50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.062829 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e260>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.065436 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e8c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.068489 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e230>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.071228 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.085989 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.099159 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ee30>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.104408 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8eb00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.110505 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f3a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.115617 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d8a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.119381 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.121947 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.124268 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8db40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.126786 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e890>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.129029 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f6a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.131244 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8fc40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.134292 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.136734 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d5d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.139071 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.141248 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8db40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.143565 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.145940 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a995d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.148492 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9bd90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.150969 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f2f50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.153305 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8db40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.155857 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.158298 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d5d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.160443 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.162888 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98f70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.165320 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dd50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.167687 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8cc70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.170226 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.172420 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.174859 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98760>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.177293 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99c60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.179531 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f39a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.181953 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dba0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.184226 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.186743 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ecb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.188888 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.191444 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.193725 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f340>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.196082 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8df90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.198633 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d1b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.201241 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f0a60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.203764 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a995d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.206231 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a2f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.208566 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ef50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.210833 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.213001 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d4e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.215435 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8c5e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.217880 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9b670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.220460 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac48b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.222700 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d0f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.224947 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8df60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.227273 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ded0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.229445 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3190>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.231745 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac4c70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.234747 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ac51e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.237139 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.239539 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a981f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.241830 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9abf0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.244072 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a7a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.246335 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98520>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.248869 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99c00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.251239 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111623a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.254613 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99540>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.257035 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99ae0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.274067 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a983d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.274004 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99b40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.274141 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.274401 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99990>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.274387 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99720>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.275008 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3e50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.276149 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99180>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.278454 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99c90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.280436 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d990>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.282706 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a5c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.285188 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9add0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.288144 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a985e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.290813 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.293399 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8edd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.296417 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.299099 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f39a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.301727 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a985e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.304392 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9add0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.306752 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a5c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.309114 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8de10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.311701 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8efe0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.314138 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a981c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.316916 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.319558 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a440>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.321919 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f35b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.324172 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8e380>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.326668 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8f8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.329014 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a985e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.331276 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98250>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.334025 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98be0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.336698 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a99240>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.339186 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d1b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.341645 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8dc00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.344116 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a98e20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.346344 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a9a650>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.348758 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a994b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.351123 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119f3580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.353595 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8ce20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-09-11 12:02:59.356507 - Dispositivo 1: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /device/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111a8d120>: Failed to establish a new connection: [Errno 61] Connection refused'))

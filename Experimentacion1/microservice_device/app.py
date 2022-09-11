@@ -20,15 +20,32 @@ def process_signal(cancion_json):
 class VistaDevice(Resource):
     
     def post(self, id_device):
-        content = requests.get('http://127.0.0.1:5000/device/{}'.format(id_device))
-
-        if content.status_code == 404:
-            return content.json(),404
-        else:
-            device = content.json()
-            device["sign"] = request.json["sign"]
-            args = (device,)
-            process_signal.apply_async(args)
-            return json.dumps(device)
+        rango = request.json["rango"]
+        for i in range(rango):
+            try:
+                content = requests.get('http://127.0.0.1:5000/device/{}'.format(id_device))
+            
+                if content.status_code == 404:
+                    return content.json(),404
+                else:
+                    device = content.json()
+                    args = (device,)
+                    if device["is_on"]:
+                        device["sign"] = i
+                    else:
+                        device["msg"] = "Dispositivo apagado"
+                    process_signal.apply_async(args)
+                    
+            except Exception as e:
+                e_msg = str(e)
+                device = {
+                "id": id_device,
+                "msg": e_msg,
+                "is_on": False
+                }
+                args = (device,)
+                process_signal.apply_async(args)
+        
+        return "process_signal"
 
 api.add_resource(VistaDevice, '/device/<int:id_device>/process_signal')

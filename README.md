@@ -1,4 +1,5 @@
 # MonitoreoABCGrupo21
+Con el fin de facilitar el diseño del experimento, los integrantes del grupo nos reunimos y desarrollamos la actividad en pair programming.<br>
 Asistentes:
 
 Hawer Forero<br>

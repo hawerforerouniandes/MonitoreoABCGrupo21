@@ -6,6 +6,15 @@ from sqlalchemy.exc import IntegrityError
 device_schema = DeviceSchema()
 user_schema = UserSchema()
 
+class VistaLogIn(Resource):
+
+    def post(self):
+        usuario = User.query.filter(User.username == request.json["username"], User.password == request.json["password"]).first()
+        db.session.commit()
+        if usuario is None:
+            return "El usuario no existe", 404
+        else:
+            return {"mensaje":"Acceso concedido", "usuario": {"nombre":usuario.username, "id": usuario.id}}
 
 class VistaDevices(Resource):
 

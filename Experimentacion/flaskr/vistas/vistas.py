@@ -1,8 +1,12 @@
 from flask import request
+
+from ..authorization import operador_required
+
 from ..modelos import db, Device, DeviceSchema, User, UserSchema
 from flask_restful import Resource
 from sqlalchemy.exc import IntegrityError
-from flask_jwt_extended import jwt_required, create_access_token, get_jwt_identity
+from flask_jwt_extended import jwt_required, create_access_token
+
 device_schema = DeviceSchema()
 user_schema = UserSchema()
 
@@ -14,7 +18,8 @@ class VistaLogIn(Resource):
         if usuario is None:
             return "El usuario no existe", 404
         else:
-            token_de_acceso = create_access_token(identity=usuario.id)
+            additional_claims = {"role": usuario.role}
+            token_de_acceso = create_access_token(identity=usuario.id, additional_claims=additional_claims)
             return {"mensaje":"Acceso concedido", "usuario": {"nombre":usuario.username, "id": usuario.id, "token": token_de_acceso}}
 
 class VistaDevices(Resource):
@@ -35,7 +40,8 @@ class VistaDevice(Resource):
     def get(self, id_device):
         return device_schema.dump(Device.query.get_or_404(id_device))
 
-    @jwt_required()
+    @jwt_required(optional=True)
+    @operador_required()
     def put(self, id_device):
         device = Device.query.get_or_404(id_device)
         device.is_on = request.json.get("is_on",device.is_on)
@@ -52,3 +58,5 @@ class VistaUsers(Resource):
     @jwt_required()
     def get(self):
         return [user_schema.dump(ca) for ca in User.query.all()]
+
+
